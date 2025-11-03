@@ -30,8 +30,8 @@ importers:
         specifier: ^1.6.0
         version: 1.6.0
       npm-check-updates:
-        specifier: ^19.1.1
-        version: 19.1.1
+        specifier: ^19.1.2
+        version: 19.1.2
       npm-run-all:
         specifier: ^4.1.5
         version: 4.1.5
@@ -1738,8 +1738,8 @@ packages:
     resolution: {integrity: sha512-6eZs5Ls3WtCisHWp9S2GUy8dqkpGi4BVSz3GaqiE6ezub0512ESztXUwUB6C6IKbQkY2Pnb/mD4WYojCRwcwLA==}
     engines: {node: '>=0.10.0'}
 
-  npm-check-updates@19.1.1:
-    resolution: {integrity: sha512-vy/uNbaK6Xfj/QzM8OXeALZak67E0uHjUlbdT1YGy4bdj0xlBU6AVd+8bscY8vlDpyzL6Y7mxcrX8kzEDeEpNg==}
+  npm-check-updates@19.1.2:
+    resolution: {integrity: sha512-FNeFCVgPOj0fz89hOpGtxP2rnnRHR7hD2E8qNU8SMWfkyDZXA/xpgjsL3UMLSo3F/K13QvJDnbxPngulNDDo/g==}
     engines: {node: '>=20.0.0', npm: '>=8.12.1'}
     hasBin: true
 
@@ -4686,7 +4686,7 @@ snapshots:
 
   normalize-path@3.0.0: {}
 
-  npm-check-updates@19.1.1: {}
+  npm-check-updates@19.1.2: {}
 
   npm-run-all@4.1.5:
     dependencies:
